@@ -1,5 +1,6 @@
 voila
 voila-material
+ipywidgets
 Untitled43
 --theme=dark
 --debug

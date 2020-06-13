@@ -1,6 +1,9 @@
 voila
 voila-material
+pandas
 ipywidgets
-Untitled43
---theme=dark
---debug
+seaborn
+plotly
+folium
+matplotlib
+numpy
